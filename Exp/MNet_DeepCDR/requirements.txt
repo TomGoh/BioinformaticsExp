@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pillow
+scikit-image
+scipy
+tensorflow==1.15.2
+pyyaml
